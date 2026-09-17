@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Practitioner | Offensive Security | Purple Teaming | AI Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Purple+Teaming+%2B+AI%2FML+Security;CyberEx+TRON+2026+National+1st+Runner-Up;Top+40+all-time+on+TryHackMe;Building+SVAT+%26+DeadNet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Red+Team;Blue+Team;Purple+Teaming;Offensive+Security;CTF+Competitor;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -88,8 +88,6 @@ Full-stack, self-hosted CTF competition platform with a cyberpunk aesthetic — 
 
 ### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/creampuffenjoyer)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/fymn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephbenjamin.sollestre@gmail.com)
 
 ---
