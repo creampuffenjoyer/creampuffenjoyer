@@ -63,34 +63,6 @@
 - **2024 ASEAN CTF for Member States** — Country Representative
 - University Representative — 2024 Trend University CTF, 2023 12th IT Skills Olympics
 
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**SVAT — Security Vulnerability Assessment Tool**
-Thesis project: CatBoost ML pipeline classifying cybersecurity risk of inactive Philippine SUC student portals.
-- **94.44% accuracy** · **0.9392 macro F1**
-- Full-stack delivery: FastAPI backend + React/TailwindCSS frontend
-- `Python 3.12` `FastAPI` `React 18` `TailwindCSS` `PostgreSQL` `Redis` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-**DeadNet — Self-Hosted CTF Platform**
-Full-stack, self-hosted CTF competition platform with a cyberpunk aesthetic — an alternative to CTFd/HackTheBox.
-- Four-role auth hierarchy, JWT auth, email verification, Contract Board with rarity tiers, live Redis-cached Bounty Board, multi-org architecture
-- Found & fixed flag exposure, XSS, race condition, and JWT misconfig vulnerabilities during dev
-- `React` `Vite` `Tailwind` `Framer Motion` `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-</td>
-</tr>
-</table>
-
----
 
 ### On the Roadmap
 
