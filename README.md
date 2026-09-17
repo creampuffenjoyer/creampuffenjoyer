@@ -26,7 +26,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-1E3A5F?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-4B5563?style=for-the-badge)
-!![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Security Onion](https://img.shields.io/badge/Security%20Onion-4CAF50?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-CC0000?style=for-the-badge)
