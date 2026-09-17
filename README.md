@@ -15,13 +15,20 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=red)
+![Nikto](https://img.shields.io/badge/Nikto-3E8E41?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-2E2E2E?style=for-the-badge)
+![sqlmap](https://img.shields.io/badge/sqlmap-D22128?style=for-the-badge)
+![Noctis](https://img.shields.io/badge/Noctis-1A1A2E?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Defensive Security & Forensics**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-1E3A5F?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-4B5563?style=for-the-badge)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+!![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-4CAF50?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-CC0000?style=for-the-badge)
 
 **Systems & Development**
