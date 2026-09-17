@@ -42,7 +42,7 @@
 - Pursuing a career in **purple teaming** and **AI security**
 - Experienced building end-to-end security systems — from a hardened self-hosted CTF platform to an ML-based vulnerability classifier
 - Hands-on across web exploitation, blue/red team ops, network analysis, and **AI/LLM security & prompt injection**
-- Full-Stack Developer & Penetration Tester at **Sabinex** (Aug 2025–Present)
+- Competitive CTF player
 
 ---
 
