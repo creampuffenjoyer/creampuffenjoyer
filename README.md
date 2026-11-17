@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Joseph Sollestre</h1>
 <h3 align="center">Cybersecurity Practitioner | Offensive Security | Purple Teaming | AI Security</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Red+Teaming;Blue+Teaming;Purple+Teaming;Offensive+Security;CTF+Competitor;Full+Stack+Developer" alt="Typing SVG" />
-</p>
+https://tinyurl.com/idkanym4
 
 ---
 
