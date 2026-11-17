@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Joseph Sollestre</h1>
 <h3 align="center">Cybersecurity Practitioner | Offensive Security | Purple Teaming | AI Security</h3>
 
-https://tinyurl.com/idkanym4
 
 ---
 
